@@ -5,3 +5,5 @@ class cat:
         self.age = age
 def info(self):
     print(f'{self.name}\n{self.genus}\n{self.age}')
+
+    #edfrgtyh
